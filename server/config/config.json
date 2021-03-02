@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "cntlmukm",
+    "password": "HSf96qaEf4XisRReQExE_FmGDFOz0zZ5",
+    "database": "cntlmukm",
+    "host": "ziggy.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
