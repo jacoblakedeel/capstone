@@ -1,4 +1,4 @@
-
+//setting initial state
 const initialState = {
     counter: 0
 }
