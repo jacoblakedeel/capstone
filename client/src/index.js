@@ -6,8 +6,8 @@ import {
   Switch
 } from 'react-router-dom';
 import {createStore} from 'redux';
-import {Provider} from 'react-redux'
-
+import {Provider} from 'react-redux';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import App from './App';
 import BaseLayout from './components/layout/BaseLayout';
